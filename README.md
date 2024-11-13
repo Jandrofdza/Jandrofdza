@@ -1,5 +1,4 @@
 - CS Student in Anahuac University
-- Intrested in number theory, topology and neural networks!
 
 <!---
 Jandrofdza/Jandrofdza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
